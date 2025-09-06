@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedalsamman" alt="mohammedalsamman" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end Development (PHP & Laravel)**
+- 🌱 I’m currently learning **Back-end Development (python & django)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammedAlSamman?tab=repositories](https://github.com/MohammedAlSamman?tab=repositories)
 
-- 💬 Ask me about **Robotics , PHP**
+- 💬 Ask me about **Robotics , python**
 
 - 📫 How to reach me **mohamadsaman86@gmail.com**
 
